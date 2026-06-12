@@ -13,7 +13,7 @@ const gallery = [
   { src: photo1, alt: 'Shivadnya team felicitation on stage' },
 ]
 
-const whatsappNumber = '910000000000'
+const whatsappNumber = '919545106699'
 const bookingMessage = encodeURIComponent(
   'Hi there, I want to book Shivadnya Dhol Tasha Pathak for an event.',
 )
